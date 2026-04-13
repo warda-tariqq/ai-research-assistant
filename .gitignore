@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Data
+data/uploads/*
+data/index/*
+data/chunks/*
+data/parsed/*
+
+# Mac
+.DS_Store
